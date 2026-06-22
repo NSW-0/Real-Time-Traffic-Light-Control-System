@@ -1,0 +1,18 @@
+# Phase timing (seconds)
+green_duration     = 10
+yellow_duration    = 3
+allred_duration    = 1
+
+# Pedestrian settings (seconds)
+ped_duration       = 8
+ped_max_wait       = 60
+
+# Emergency response (seconds)
+emg_response_time  = 3
+
+# Simulation event intervals (seconds)
+vehicle_interval   = 4
+ped_interval       = 20
+emg_interval       = 60
+
+run_duration       = 0
